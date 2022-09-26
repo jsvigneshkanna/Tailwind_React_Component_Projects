@@ -15,7 +15,7 @@ Hey 🙋‍♂️, I am building variety of components in react mainly designed/
    > npx tailwindcss init
 
 4. Add below line in tailwind.config.js content's list
-   > "./src/\*_/_.{html,js, jsx}"
+   > "./src/\*_/_.{js,jsx,ts,tsx}"
 5. Run below cmd to create input and output css files
    > npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch
 

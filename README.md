@@ -27,3 +27,4 @@ Hey 🙋‍♂️, I am building variety of components in react mainly designed/
 ## Reference
 
 1. Tailwind Installation - [Link](https://tailwindcss.com/docs/installation)
+2. Tailwind UI - [Link](https://tailwindui.com/)

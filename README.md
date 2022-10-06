@@ -4,6 +4,8 @@ Hey 🙋‍♂️, I am building variety of components in react mainly designed/
 
 ## Steps
 
+---
+
 1. First of all create a new react app with below command
    > npx create-react-app APP_NAME
 2. Install Nodemon (Life hacking tool from NPM)
@@ -21,10 +23,21 @@ Hey 🙋‍♂️, I am building variety of components in react mainly designed/
 
 ## Projects/ Builds
 
+---
+
 1. Projects showcase page (Homepage) - [Link](https://google.com])
 2.
 
+## Components Reference Pages
+
+---
+
+1. **NavBars**
+   - [27+ most beautiful bootstrap navbars](https://htmljstemplates.com/html/bootstrap-5-navbars)
+
 ## Reference
+
+---
 
 1. Tailwind Installation - [Link](https://tailwindcss.com/docs/installation)
 2. Tailwind UI - [Link](https://tailwindui.com/)

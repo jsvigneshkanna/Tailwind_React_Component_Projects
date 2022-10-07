@@ -5,6 +5,7 @@ import { Home, Navbar } from "./pages";
 
 // Importing all the components
 import Navbar1 from "./components/navbars/Navbar1";
+import CenteredNavBrand from "./components/navbars/CenteredNavBrand";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
         <Route path="/navbars">
           <Route index={true} element={<Navbar />} />
           <Route path="navbar1" element={<Navbar1 />} />
+          <Route path="centered-navbrand" element={<CenteredNavBrand />} />
         </Route>
       </Routes>
     </Router>
